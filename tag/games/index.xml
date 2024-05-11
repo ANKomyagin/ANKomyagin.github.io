@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Games | Academic</title>
+    <link>http://localhost:1313/tag/games/</link>
+      <atom:link href="http://localhost:1313/tag/games/index.xml" rel="self" type="application/rss+xml" />
+    <description>Games</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Games</title>
+      <link>http://localhost:1313/tag/games/</link>
+    </image>
+    
+    <item>
+      <title>Индивидуальный проект 10 класс</title>
+      <link>http://localhost:1313/project/example/</link>
+      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/example/</guid>
+      <description>&lt;p&gt;В 10 классе ученики проходят дисциплину &amp;ldquo;Индивидуальный проект&amp;rdquo;. В курсе занятий необходимо разработать собственный продукт. Я не был исключением.&lt;/p&gt;
+&lt;p&gt;Так как я увлекался программированием, а ещё люблю игры, я сразу решил написать какую-нибудь игру в качестве продукта для проекта. Продукт должен быть полезным, поэтому игра должна быть не простая, а развивающая. Идея пришла сразу - нужно разработать игру, которая поможет изучать английские слова.&lt;/p&gt;
+&lt;p&gt;Для качественного изучения слов необходимо знать перевод слова, его написание и произношение. Игра должна была акцентировать своё внимание на каждом из трёх элементов.&lt;/p&gt;
+&lt;p&gt;Ссылка на игру: &lt;a href=&#34;https://disk.yandex.ru/d/Miko1_cHfj7JkQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://disk.yandex.ru/d/Miko1_cHfj7JkQ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

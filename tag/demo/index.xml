@@ -13,11 +13,15 @@
     </image>
     
     <item>
-      <title>External Project</title>
+      <title>Индивидуальный проект 10 класс</title>
       <link>http://localhost:1313/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/external-project/</guid>
-      <description></description>
+      <description>&lt;p&gt;В 10 классе ученики проходят дисциплину &amp;ldquo;Индивидуальный проект&amp;rdquo;. В курсе занятий необходимо разработать собственный продукт. Я не был исключением.&lt;/p&gt;
+&lt;p&gt;Так как я увлекался программированием, а ещё люблю игры, я сразу решил написать какую-нибудь игру в качестве продукта для проекта. Продукт должен быть полезным, поэтому игра должна быть не простая, а развивающая. Идея пришла сразу - нужно разработать игру, которая поможет изучать английские слова.&lt;/p&gt;
+&lt;p&gt;Для качественного изучения слов необходимо знать перевод слова, его написание и произношение. Игра должна была акцентировать своё внимание на каждом из трёх элементов.&lt;/p&gt;
+&lt;p&gt;Ссылка на игру: &lt;a href=&#34;https://disk.yandex.ru/d/Miko1_cHfj7JkQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://disk.yandex.ru/d/Miko1_cHfj7JkQ&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
